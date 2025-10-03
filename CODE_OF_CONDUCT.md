@@ -72,7 +72,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
+**Community Impact**: Use of inappropriate language or other behavior deem
 unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing
